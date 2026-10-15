@@ -12,73 +12,74 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nisra =====
-[1]Nisra       |09:07:32 | 14-10-2026| login OK @nisrayurima | score=1140 rank=5286
-[1]Nisra       |09:07:32 | 14-10-2026| serverTime=2026-10-14T09:07:32.000Z local=2026-10-14T09:07:32.916Z
+[1]Nisra       |08:40:45 | 15-10-2026| login OK @nisrayurima | score=1190 rank=5264
+[1]Nisra       |08:40:45 | 15-10-2026| serverTime=2026-10-15T08:40:45.000Z local=2026-10-15T08:40:45.979Z
 --> [1]Nisra menjalankan: Claim Daily
-[1]Nisra       |09:07:34 | 14-10-2026| daily: OK +10 poin score=1150
---> [1]Nisra menjalankan: Auto All Tasks (4 pending)
-[1]Nisra       |09:07:36 | 14-10-2026| [1/4] 2f4050f7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nisrayurima/status/2110295882327136557
-[1]Nisra       |09:07:36 | 14-10-2026| delay 10s...
-[1]Nisra       |09:07:49 | 14-10-2026| [2/4] 8dd1f57c (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Nisra       |09:07:49 | 14-10-2026| delay 10s...
-[1]Nisra       |09:08:01 | 14-10-2026| [3/4] 039113e7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nisrayurima/status/2110295932024254391
-[1]Nisra       |09:08:01 | 14-10-2026| delay 10s...
-[1]Nisra       |09:08:13 | 14-10-2026| [4/4] b3500764 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nisrayurima/status/2110296320034012378
-[1]Nisra       |09:08:13 | 14-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nisra       |09:08:16 | 14-10-2026| [1/1] 2f4050f7 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/nisrayurima/status/2110296249851477909
+[1]Nisra       |08:40:46 | 15-10-2026| daily: OK +10 poin score=1200
+--> [1]Nisra menjalankan: Auto All Tasks (5 pending)
+[1]Nisra       |08:40:49 | 15-10-2026| [1/5] 68f22c3e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/nisrayurima/status/2110651695738610497
+[1]Nisra       |08:40:49 | 15-10-2026| delay 10s...
+[1]Nisra       |08:41:00 | 15-10-2026| [2/5] ec8513a4 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109
+[1]Nisra       |08:41:00 | 15-10-2026| delay 10s...
+[1]Nisra       |08:41:12 | 15-10-2026| [3/5] 1e029da8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/nisrayurima/status/2110651913760609322
+[1]Nisra       |08:41:12 | 15-10-2026| delay 10s...
+[1]Nisra       |08:41:25 | 15-10-2026| [4/5] e41210a5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/nisrayurima/status/2110651670859549134
+[1]Nisra       |08:41:25 | 15-10-2026| delay 10s...
+[1]Nisra       |08:41:40 | 15-10-2026| [5/5] 6ee55c06 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817441210109 | proof=https://x.com/nisrayurima/status/2110651782474495179
+[1]Nisra       |08:41:40 | 15-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nisra       |08:41:41 | 15-10-2026| [1/1] 68f22c3e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"43cc226d-53f6-47f3-ba12-591c78249d4f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174412101091 | proof=https://x.com/nisrayurima/status/2110652015862352304
 --> [1]Nisra menjalankan: Watch Anime
-[1]Nisra       |09:08:17 | 14-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
-[1]Nisra       |09:08:17 | 14-10-2026| watch [1/3] farming oshi-captains-hat...
+[1]Nisra       |08:41:42 | 15-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Nisra       |08:41:42 | 15-10-2026| watch [1/3] farming oshi-captains-hat...
   video baru dikenal: oshi-captains-hat (katalog +4)
-[1]Nisra       |09:08:19 | 14-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Nisra       |09:08:24 | 14-10-2026| watch [2/3] farming oshi-rainbow-star...
-[1]Nisra       |09:08:27 | 14-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Nisra       |09:08:32 | 14-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
-[1]Nisra       |09:08:34 | 14-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Nisra       |08:41:43 | 15-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Nisra       |08:41:48 | 15-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Nisra       |08:41:50 | 15-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Nisra       |08:41:55 | 15-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Nisra       |08:41:56 | 15-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Nisra menjalankan: Read Article
-[1]Nisra       |09:08:36 | 14-10-2026| news: 24/25 artikel selesai dibaca
-[1]Nisra       |09:08:37 | 14-10-2026| mint eligibility: {"userId":"1917970230825111553","youtube":{"url":"https://www.youtube.com/@nisrayurima","status":"submitted","revision":"b1058d39-f937-478f-b967-920ee8d3ff99","submittedAt":1791669914,"reviewedAt":179
-[1]Nisra       |09:08:44 | 14-10-2026| news [1/1] 5c5bca9d-4991-4e23-918b-9b13cd2245c8: OK completed=25
+[1]Nisra       |08:41:58 | 15-10-2026| news: 25/26 artikel selesai dibaca
+[1]Nisra       |08:41:58 | 15-10-2026| mint eligibility: {"userId":"1917970230825111553","youtube":{"url":"https://www.youtube.com/@nisrayurima","status":"submitted","revision":"b1058d39-f937-478f-b967-920ee8d3ff99","submittedAt":1791669914,"reviewedAt":179
+[1]Nisra       |08:42:04 | 15-10-2026| news [1/1] 100-friends-connected-by-what-we-love: OK completed=26
 --> [1]Nisra menjalankan: Quiz Anime
-[1]Nisra       |09:08:46 | 14-10-2026| quiz ep1: sudah dijawab
-[1]Nisra       |09:08:46 | 14-10-2026| quiz ep2: sudah dijawab
-[1]Nisra       |09:08:46 | 14-10-2026| quiz ep3: sudah dijawab
-[1]Nisra       |09:08:46 | 14-10-2026| quiz ep4: sudah dijawab
-[1]Nisra       |09:08:46 | 14-10-2026| quiz ep5: sudah dijawab
-[1]Nisra       |09:08:46 | 14-10-2026| quiz ep6: sudah dijawab
+[1]Nisra       |08:42:07 | 15-10-2026| quiz ep1: sudah dijawab
+[1]Nisra       |08:42:07 | 15-10-2026| quiz ep2: sudah dijawab
+[1]Nisra       |08:42:07 | 15-10-2026| quiz ep3: sudah dijawab
+[1]Nisra       |08:42:07 | 15-10-2026| quiz ep4: sudah dijawab
+[1]Nisra       |08:42:07 | 15-10-2026| quiz ep5: sudah dijawab
+[1]Nisra       |08:42:07 | 15-10-2026| quiz ep6: sudah dijawab
 --> [1]Nisra menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nisra       |09:08:49 | 14-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nisra       |09:08:49 | 14-10-2026| mission music-listens-10: sudah diklaim
-[1]Nisra       |09:08:49 | 14-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nisra       |09:08:49 | 14-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nisra       |08:42:09 | 15-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nisra       |08:42:09 | 15-10-2026| mission music-listens-10: sudah diklaim
+[1]Nisra       |08:42:09 | 15-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nisra       |08:42:09 | 15-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nisra menjalankan: Claim Missions
-[1]Nisra       |09:08:50 | 14-10-2026| mission music-listens-10: sudah diklaim
-[1]Nisra       |09:08:50 | 14-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nisra       |09:08:50 | 14-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nisra       |08:42:10 | 15-10-2026| mission music-listens-10: sudah diklaim
+[1]Nisra       |08:42:10 | 15-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nisra       |08:42:10 | 15-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nisra menjalankan: Check Eligibility
 
 --- eligibility [1]Nisra ---
-  @nisrayurima | score=1140 rank=5286
-  tasks    [###################-] 76/80
+  @nisrayurima | score=1190 rank=5264
+  tasks    [###################-] 72/77
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
   watch    [####################] 18/17
   music    [####################] 11/11
-  artikel  [####################] 25/25
+  artikel  [####################] 26/26
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nisra menjalankan: Read Manga
-[1]Nisra       |09:08:55 | 14-10-2026| manga: 0/13 chapter belum completed
+[1]Nisra       |08:42:14 | 15-10-2026| manga: 0/13 chapter belum completed
 --> [1]Nisra menjalankan: Get Gift
-[1]Nisra       |09:08:56 | 14-10-2026| gift: 1/4 belum diterima
-[1]Nisra       |09:08:57 | 14-10-2026| gift [1/1] Silver Oshii: OK
+[1]Nisra       |08:42:14 | 15-10-2026| gift: 0/4 belum diterima
 --> [1]Nisra menjalankan: Setup Profile
-[1]Nisra       |09:09:01 | 14-10-2026| profile: bio="https://x.com/nisrayurima" fav=mony rewardAt=1791688837
-[1]Nisra       |09:09:01 | 14-10-2026| profile: bonus sudah diklaim, skip
+[1]Nisra       |08:42:15 | 15-10-2026| profile: bio="https://x.com/nisrayurima" fav=mony rewardAt=1791688837
+[1]Nisra       |08:42:15 | 15-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nisra menjalankan: Bind Wallet
-[1]Nisra       |09:09:02 | 14-10-2026| wallet: sudah terikat 4LQUJ2MfZz... (solana)
+[1]Nisra       |08:42:15 | 15-10-2026| wallet: sudah terikat 4LQUJ2MfZz... (solana)
 
 == RINGKASAN ==
-- Nisra: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 1/4 diterima | profile - | wallet bound | mint req=false open=false
+- Nisra: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
